@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Juan C. Santa</h1>
+  <h2>TO DO List</h2>
+    <h3>Uncompleted</h3>
+    <ul>
+      <li>eat</li>
+      <li>sleep</li>
+      <li>run</li>
+    </ul>
+    <h2>Completed</h2>
+    <ol>woke up</ol>
+    <ol>brush teeth</ol>
+    <ol>bath</ol>
+  </body>
+  </html>
